@@ -1,2 +1,6 @@
-# Updating-Data
-This module  focuses on data preparation for AI projects. This involves data cleaning, and any other data preparation work that is commonly involved and required by data engineers.
+# Updating Data
+[![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/Updating-Data.svg)](https://github.com/Develop-Packt/Updating-Data/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/Updating-Data.svg)](https://github.com/Develop-Packt/Updating-Data/network)
+[![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/Updating-Data.svg)](https://github.com/Develop-Packt/Updating-Data/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/Updating-Data/pulls)
+
